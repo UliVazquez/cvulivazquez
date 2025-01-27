@@ -1,14 +1,14 @@
-Description:
+## Description
 This project is a web-based curriculum designed to showcase my professional experience, skills, and academic background. The site is built using HTML and CSS, focusing on a responsive design to ensure an optimal user experience across various devices.
 
-Key Features:
+## Key Features
+- Clean and professional design.
+- Fully responsive and mobile-friendly.
+- Clear structure for intuitive navigation.
+- Deployed and hosted on Netlify.
 
-Clean and professional design.
-Fully responsive and mobile-friendly.
-Clear structure for intuitive navigation.
-Deployed and hosted on Netlify.
-Technologies Used:
+## Technologies Used
+- HTML
+- CSS
 
-HTML
-CSS
-Visit the live site: cvulivazquez.netlify.app
+**Visit the live site <a href="https://cvulivazquez.netlify.app/" target="_blank">here</a>**
